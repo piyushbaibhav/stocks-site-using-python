@@ -29,7 +29,7 @@ The Stock Dash App is a web application built using the Dash framework in Python
 
 
 # Usage
- Input a valid stock code in the provided text field.(search for stock code on google)
+ Input a valid stock code in the provided text field. (search for stock code on Google)
 
 Choose a date range using the date picker.
 
@@ -51,11 +51,7 @@ Explore the app's visualizations and analyses.
 
 # Demo
 
- ![Stick Site](![not loading](<demo/1st.png>))
- ![](![not loading](<demo/2nd.png>))
- ![](![not loading](<demo/3rd.png>))
-
- <iframe width="560" height="315" src="demo/Screen Recording - Nov 4, 2023.mp4" frameborder="0" allowfullscreen></iframe>
+For demo, you can go to the demo folder. There I've uploaded some snapshots of the output and one video also.
 
 
 # License
