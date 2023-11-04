@@ -18,7 +18,7 @@ The Stock Dash App is a web application built using the Dash framework in Python
 - Python 3.6 or higher.
 - Install the required Python packages using `pip`:
   ```bash
-  you can install everything using requrements folder
+  you can install everything using requirements folder
 
   using `pip install -r requirements.txt`
 
