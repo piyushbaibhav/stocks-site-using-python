@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Stock Dash App is a web application built using the Dash framework in Python. It provides users with the ability to visualize stock data, view stock prices, analyze stock indicators, and generate stock price forecasts. Additionally, it offers insights into the Nifty50 index's performance for the past 30 days.
+The Stock Dash App is a web application built using the Dash framework in Python. It provides users with the ability to visualize stock data, view stock prices, analyze stock indicators, and generate stock price forecasts. Additionally, it offers insights into the Nifty50 index's performance for the past 30 days. This is my 3rd sem Python project.
 
 ## Features
 
@@ -51,7 +51,7 @@ Explore the app's visualizations and analyses.
 
 # Demo
 
-If you'd like to see a demo, you can go to the demo folder. There I've uploaded some snapshots of the output and one video also.
+If you'd like to see a demo, you can go to the demo folder. There I've uploaded some snapshots of the output and one video also. I've not deployed this yet cuz idk how to as of now.
 
 
 # License
